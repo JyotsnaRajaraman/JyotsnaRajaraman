@@ -1,6 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotsnaRajaraman)](https://github.com/anuraghazra/github-readme-stats)
-
-
 #### I'm Jyotsna (say:johts-nah), a Computer Science grad student at UChicago.
 
 As of 02/10/2023, I have started 100 days of code and am documenting my journey towards being a better coder and thereby a better Github contributer.
